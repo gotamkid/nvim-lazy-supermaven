@@ -68,3 +68,4 @@ git clone https://github.com/slydragonn/nvim-lazy.git
 - [hrsh7th/cmp-buffer:](https://github.com/hrsh7th/cmp-buffer) nvim-cmp source for buffer words
 - [williamboman/mason-lspconfig.nvim:](https://github.com/williamboman/mason-lspconfig.nvim) Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.
 - [WhoIsSethDaniel/mason-tool-installer.nvim:](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim) Install and upgrade third party tools automatically.
+- [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) Lets you use Supermaven in Neovim
